@@ -1,0 +1,22 @@
+{
+"name": "shiplogic",
+"version": "0.0.1",
+"author": "Yaman Almahamid <yamanmid@gamil.com>",
+“description”: “something about shipping”,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yamanmid/shiplogic"
+  },
+ "dependencies" : {
+    "mongodb"   :  "*",
+    "mongoose" :  "*"
+  },
+"bundledDependencies": [
+    "mongodb",
+    "mongoose"
+  ],  
+  "license": "MIT",
+  "engines": {
+    "node": ">=0.6"
+  }
+}
