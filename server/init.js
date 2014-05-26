@@ -31,7 +31,7 @@ var fourmeSchema = mongoose.Schema({
     shipperAddress: [address],
     recipientAddress: [address],
     items : [[item]],
-    orderSummary,
+    orderSummary: String,
     numberOfItems: Number,
     OrderValue: Number,
     ServiceType: String
