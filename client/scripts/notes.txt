@@ -1,3 +1,0 @@
-web-server.js is a node web server from angularjs-fundamentals course to write to desk files.
-
-in long run the, we will use our own node web server to write to backend no sql db.
